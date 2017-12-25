@@ -1,3 +1,2 @@
 # test
-A test repository
-This is a test repository
+A first repository as hello_world
